@@ -7,7 +7,7 @@ This repository contains a template for creating ML experiment pipelines using D
 1. Create a new pipeline project using the template:
 
 ```bash
-uvx cookiecutter https://github.com/yourusername/pipeline-template.git
+uvx cookiecutter https://github.com/bdsaglam/pipeline-template.git
 ```
 
 2. Follow the prompts to customize your pipeline.
